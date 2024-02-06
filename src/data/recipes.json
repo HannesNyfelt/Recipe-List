@@ -1,0 +1,760 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Aglio e Olio",
+      "description": "A simple and flavorful Italian pasta dish with garlic, olive oil, and red pepper flakes.",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": "200g"
+        },
+        {
+          "name": "Garlic cloves, thinly sliced",
+          "amount": "4 cloves"
+        },
+        {
+          "name": "Red pepper flakes",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Extra virgin olive oil",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Fresh parsley, chopped",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Cook the spaghetti according to the instructions.",
+        "In a pan, heat extra virgin olive oil over low heat.",
+        "Add thinly sliced garlic to the oil and sauté until it becomes golden (be careful not to burn it).",
+        "Add a pinch of red pepper flakes to the garlic and oil mixture.",
+        "Toss the cooked spaghetti in the pan with the garlic and oil.",
+        "Season with salt to taste.",
+        "Garnish with chopped fresh parsley before serving."
+      ],
+      "estimatedCost": 510,
+      "imageUrl": "/images/spaghetti_aglio_e_olio.png"
+    },
+    {
+      "id": 2,
+      "title": "Vegetarian Chickpea Curry",
+      "description": "A flavorful and nutritious vegetarian curry made with chickpeas, vegetables, and aromatic spices.",
+      "ingredients": [
+        {
+          "name": "Canned chickpeas, drained and rinsed",
+          "amount": "2 cans"
+        },
+        {
+          "name": "Onion, finely chopped",
+          "amount": "1 large"
+        },
+        {
+          "name": "Tomatoes, diced",
+          "amount": "2 medium"
+        },
+        {
+          "name": "Carrots, diced",
+          "amount": "2 medium"
+        },
+        {
+          "name": "Potatoes, diced",
+          "amount": "2 medium"
+        },
+        {
+          "name": "Coconut milk",
+          "amount": "1 can"
+        },
+        {
+          "name": "Curry powder",
+          "amount": "2 teaspoons"
+        },
+        {
+          "name": "Cumin",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "Coriander",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "Turmeric",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "3 cloves"
+        },
+        {
+          "name": "Ginger, grated",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "Vegetable oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "Pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "In a large pot, heat vegetable oil over medium heat.",
+        "Add chopped onions and sauté until translucent.",
+        "Add minced garlic and grated ginger. Sauté until fragrant.",
+        "Add diced tomatoes, carrots, and potatoes to the pot. Stir well.",
+        "Add curry powder, cumin, coriander, and turmeric. Mix until vegetables are coated with spices.",
+        "Pour in coconut milk and bring the mixture to a simmer.",
+        "Add drained chickpeas and simmer until the vegetables are tender.",
+        "Season with salt and pepper to taste.",
+        "Serve the chickpea curry over rice or with naan bread."
+      ],
+      "estimatedCost": 700,
+      "imageUrl": "/images/chickpea_curry.png"
+    },
+    {
+      "id": 3,
+      "title": "Pasta Carbonara",
+      "description": "A classic Italian pasta dish with a rich and creamy sauce. Originated in Rome, Italy.",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": "200g"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Bacon",
+          "amount": "150g"
+        },
+        {
+          "name": "Parmesan cheese",
+          "amount": "1 cup, grated"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/2 teaspoon"
+        }
+      ],
+      "instructions": [
+        "Cook the spaghetti according to the instructions.",
+        "Fry the bacon until crispy.",
+        "Whisk the eggs and mix with grated Parmesan cheese.",
+        "Pour the egg and cheese mixture over the freshly cooked pasta.",
+        "Add bacon and black pepper. Mix well and serve immediately."
+      ],
+      "estimatedCost": 950,
+      "imageUrl": "/images/pasta_carbonara.png"
+    },
+    {
+      "id": 4,
+      "title": "Mango Avocado Salad",
+      "description": "A refreshing and vibrant salad with the sweetness of mango and the creaminess of avocado.",
+      "ingredients": [
+        {
+          "name": "Ripe mango, diced",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Avocado, diced",
+          "amount": "1 large"
+        },
+        {
+          "name": "Cherry tomatoes, halved",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Red onion, thinly sliced",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Fresh cilantro, chopped",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Lime juice",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Extra virgin olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "Chili flakes (optional)",
+          "amount": "1/4 teaspoon"
+        }
+      ],
+      "instructions": [
+        "In a large bowl, combine diced mango, avocado, halved cherry tomatoes, and thinly sliced red onion.",
+        "In a small bowl, whisk together lime juice, extra virgin olive oil, salt, black pepper, and chili flakes if using.",
+        "Drizzle the dressing over the salad and toss gently to combine.",
+        "Sprinkle chopped fresh cilantro on top.",
+        "Serve immediately as a side dish or a light, healthy snack."
+      ],
+      "estimatedCost": 820,
+      "imageUrl": "/images/mango_avocado_salad.png"
+    },
+    {
+      "id": 5,
+      "title": "Quinoa Stuffed Bell Peppers",
+      "description": "A nutritious and flavorful dish where bell peppers are filled with a delicious quinoa and vegetable stuffing.",
+      "ingredients": [
+        {
+          "name": "Quinoa",
+          "amount": "1 cup, uncooked"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": "4 large"
+        },
+        {
+          "name": "Black beans, drained and rinsed",
+          "amount": "1 can (15 oz)"
+        },
+        {
+          "name": "Corn kernels",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Cherry tomatoes, halved",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Red onion, finely chopped",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Cumin",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "Paprika",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Chili powder",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Shredded cheese (optional)",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Fresh cilantro, chopped",
+          "amount": "2 tablespoons"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Cook quinoa according to package instructions and set aside.",
+        "Cut the tops off the bell peppers and remove seeds and membranes.",
+        "In a large bowl, combine cooked quinoa, black beans, corn, cherry tomatoes, red onion, garlic, cumin, paprika, chili powder, salt, and black pepper.",
+        "Drizzle olive oil over the mixture and toss to combine.",
+        "Stuff each bell pepper with the quinoa mixture and place them in a baking dish.",
+        "If desired, top each stuffed pepper with shredded cheese.",
+        "Bake in the preheated oven for 25-30 minutes or until the peppers are tender.",
+        "Garnish with chopped fresh cilantro before serving."
+      ],
+      "estimatedCost": 890,
+      "imageUrl": "/images/quinoa_stuffed_bell_peppers.png"
+    },
+    {
+      "id": 6,
+      "title": "Teriyaki Chicken Stir-Fry",
+      "description": "A delicious and savory stir-fry with tender chicken, colorful vegetables, and a flavorful teriyaki sauce.",
+      "ingredients": [
+        {
+          "name": "Boneless, skinless chicken breasts",
+          "amount": "1 lb (about 450g), sliced"
+        },
+        {
+          "name": "Broccoli florets",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Carrots, thinly sliced",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Bell peppers, assorted colors, sliced",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Snap peas",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Teriyaki sauce",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Honey",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Sesame oil",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Ginger, grated",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "Cornstarch",
+          "amount": "1 tablespoon, dissolved in 2 tablespoons water"
+        },
+        {
+          "name": "Cooked white rice for serving",
+          "amount": "4 cups"
+        },
+        {
+          "name": "Green onions, sliced (for garnish)",
+          "amount": "optional"
+        },
+        {
+          "name": "Sesame seeds (for garnish)",
+          "amount": "optional"
+        }
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, teriyaki sauce, honey, sesame oil, minced garlic, and grated ginger to make the sauce.",
+        "In a wok or large pan, heat oil over medium-high heat.",
+        "Add sliced chicken and cook until browned and cooked through. Remove from the pan and set aside.",
+        "In the same pan, add a bit more oil if needed and stir-fry broccoli, carrots, bell peppers, and snap peas until tender-crisp.",
+        "Return the cooked chicken to the pan and pour the teriyaki sauce over the mixture.",
+        "Stir in the dissolved cornstarch and cook until the sauce thickens.",
+        "Serve the teriyaki chicken stir-fry over cooked white rice.",
+        "Garnish with sliced green onions and sesame seeds if desired."
+      ],
+      "estimatedCost": 1100,
+      "imageUrl": "/images/teriyaki_chicken_stir_fry.png"
+    },
+    {
+      "id": 7,
+      "title": "Mushroom Risotto",
+      "description": "A creamy and savory Italian rice dish made with Arborio rice, mushrooms, and Parmesan cheese.",
+      "ingredients": [
+        {
+          "name": "Arborio rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Mushrooms, sliced",
+          "amount": "8 oz"
+        },
+        {
+          "name": "Yellow onion, finely chopped",
+          "amount": "1 medium"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Dry white wine",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Vegetable broth",
+          "amount": "4 cups, heated"
+        },
+        {
+          "name": "Parmesan cheese, grated",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Butter",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "Fresh parsley, chopped (for garnish)",
+          "amount": "optional"
+        }
+      ],
+      "instructions": [
+        "In a large pan, heat olive oil over medium heat.",
+        "Add finely chopped onion and sauté until translucent.",
+        "Add sliced mushrooms and cook until they release their moisture and become golden brown.",
+        "Add minced garlic and Arborio rice. Stir until the rice is well-coated with the oil.",
+        "Pour in the white wine and cook until it's mostly evaporated.",
+        "Begin adding the heated vegetable broth, one ladle at a time, stirring frequently. Wait until most of the liquid is absorbed before adding more broth.",
+        "Continue this process until the rice is creamy and cooked to al dente texture.",
+        "Stir in grated Parmesan cheese and butter. Season with salt and black pepper.",
+        "Garnish with chopped fresh parsley if desired.",
+        "Serve the mushroom risotto warm."
+      ],
+      "estimatedCost": 990,
+      "imageUrl": "/images/mushroom_risotto.png"
+    },
+    {
+      "id": 8,
+      "title": "Lemon Garlic Herb Grilled Chicken",
+      "description": "Juicy and flavorful grilled chicken marinated with a zesty lemon, garlic, and herb mixture.",
+      "ingredients": [
+        {
+          "name": "Boneless, skinless chicken breasts",
+          "amount": "4 pieces"
+        },
+        {
+          "name": "Lemon, juiced",
+          "amount": "2 lemons"
+        },
+        {
+          "name": "Garlic cloves, minced",
+          "amount": "4 cloves"
+        },
+        {
+          "name": "Fresh thyme, chopped",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Fresh rosemary, chopped",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Salt",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Paprika",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Red pepper flakes (optional)",
+          "amount": "1/4 teaspoon"
+        }
+      ],
+      "instructions": [
+        "In a bowl, whisk together lemon juice, minced garlic, chopped thyme, chopped rosemary, olive oil, salt, black pepper, paprika, and red pepper flakes if using.",
+        "Place the chicken breasts in a zip-top bag or shallow dish and pour the marinade over them. Ensure the chicken is well-coated. Marinate in the refrigerator for at least 30 minutes, or ideally, up to 4 hours.",
+        "Preheat the grill to medium-high heat.",
+        "Remove the chicken from the marinade and let any excess drip off. Discard the marinade.",
+        "Grill the chicken for about 6-8 minutes per side or until fully cooked and grill marks appear.",
+        "Let the grilled chicken rest for a few minutes before serving.",
+        "Serve the lemon garlic herb grilled chicken with your favorite side dishes."
+      ],
+      "estimatedCost": 1050,
+      "imageUrl": "/images/lemon_garlic_herb_grilled_chicken.png"
+    },
+    {
+      "id": 9,
+      "title": "Easy Tomato and Basil Pasta",
+      "description": "A quick and affordable pasta dish with a simple tomato and basil sauce.",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": "200g"
+        },
+        {
+          "name": "Canned crushed tomatoes",
+          "amount": "1 can (400g)"
+        },
+        {
+          "name": "Fresh basil leaves, chopped",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Garlic cloves, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "Grated Parmesan cheese (optional)",
+          "amount": "for serving"
+        }
+      ],
+      "instructions": [
+        "Cook the spaghetti according to the instructions.",
+        "In a pan, heat olive oil over medium heat.",
+        "Add minced garlic and sauté until fragrant.",
+        "Pour in the canned crushed tomatoes, add salt and black pepper, and simmer for 10-15 minutes.",
+        "Stir in chopped fresh basil leaves and cook for an additional 2 minutes.",
+        "Toss the cooked spaghetti in the tomato and basil sauce until well coated.",
+        "Serve the easy tomato and basil pasta with optional grated Parmesan cheese on top."
+      ],
+      "estimatedCost": 250,
+      "imageUrl": "/images/tomato_basil_pasta.png"
+    },
+    {
+      "id": 10,
+      "title": "Caprese Salad Skewers",
+      "description": "A refreshing and easy appetizer or snack with the classic flavors of Caprese salad on skewers.",
+      "ingredients": [
+        {
+          "name": "Cherry tomatoes",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Fresh mozzarella balls",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Fresh basil leaves",
+          "amount": "1/2 cup"
+        }
+      ],
+      "instructions": [
+        "Thread one cherry tomato, one fresh mozzarella ball, and one fresh basil leaf onto each skewer.",
+        "Arrange the Caprese salad skewers on a serving platter.",
+        "Drizzle with balsamic glaze or a simple vinaigrette if desired.",
+        "Serve immediately and enjoy this quick and delightful snack."
+      ],
+      "estimatedCost": 280,
+      "imageUrl": "/images/caprese_salad_skewers.png"
+    },
+    {
+      "id": 11,
+      "title": "Caprese Avocado Toast",
+      "description": "A simple and delicious avocado toast variation with the classic Caprese flavors.",
+      "ingredients": [
+        {
+          "name": "Bread",
+          "amount": "1"
+        },
+        {
+          "name": "Avocado",
+          "amount": "1"
+        },
+        {
+          "name": "Cherry tomatoes, halved",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Fresh mozzarella, diced",
+          "amount": "1/4 cup"
+        }
+      ],
+      "instructions": [
+        "Toast a slice of bread to your liking.",
+        "While the bread is toasting, mash the ripe avocado in a bowl.",
+        "Spread the mashed avocado evenly over the toasted bread.",
+        "Top the avocado toast with halved cherry tomatoes and diced fresh mozzarella.",
+        "Optional: Drizzle with balsamic glaze or a sprinkle of salt and pepper for added flavor.",
+        "Enjoy this quick and satisfying Caprese Avocado Toast!"
+      ],
+      "estimatedCost": 200,
+      "imageUrl": "/images/caprese_avocado_toast.pmg.png"
+    },
+    {
+      "id": 12,
+      "title": "Banana Oat Cookies",
+      "description": "A healthy and easy cookie recipe with only two ingredients.",
+      "ingredients": [
+        {
+          "name": "Bananas",
+          "amount": "2 ripe"
+        },
+        {
+          "name": "Oats",
+          "amount": "1 cup"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a bowl, mash the ripe bananas with a fork until smooth.",
+        "Add oats to the mashed bananas and mix well until the ingredients are combined.",
+        "Drop spoonfuls of the mixture onto a baking sheet lined with parchment paper, forming cookies.",
+        "Bake in the preheated oven for 10-12 minutes or until the edges are golden brown.",
+        "Allow the banana oat cookies to cool before serving.",
+        "Enjoy these simple and healthy cookies!"
+      ],
+      "estimatedCost": 150,
+      "imageUrl": "/images/banana_oat_cookies.png"
+    },
+    {
+      "id": 13,
+      "title": "Greek Yogurt Parfait",
+      "description": "An easy and healthy parfait with the goodness of Greek yogurt and fresh berries.",
+      "ingredients": [
+        {
+          "name": "Greek yogurt",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Mixed berries (e.g., strawberries, blueberries)",
+          "amount": "1/2 cup"
+        }
+      ],
+      "instructions": [
+        "In a glass or bowl, layer Greek yogurt with mixed berries.",
+        "Repeat the layers until the glass or bowl is filled.",
+        "Top with a few extra berries for garnish.",
+        "Serve immediately and enjoy this quick and nutritious Greek Yogurt Parfait!"
+      ],
+      "estimatedCost": 180,
+      "imageUrl": "/images/greek_yogurt_parfait.png"
+    },
+    {
+      "id": 14,
+      "title": "Tomato Basil Bruschetta",
+      "description": "A classic and flavorful Italian appetizer with the goodness of tomatoes and fresh basil.",
+      "ingredients": [
+        {
+          "name": "Ripe tomatoes, diced",
+          "amount": "4 medium-sized"
+        },
+        {
+          "name": "Fresh basil leaves, chopped",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Garlic cloves, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Baguette or Italian bread, sliced",
+          "amount": "1 loaf"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "In a bowl, combine diced tomatoes, chopped fresh basil, and minced garlic. Mix well.",
+        "Slice the baguette or Italian bread into thin slices and place them on a baking sheet.",
+        "Top each bread slice with the tomato and basil mixture.",
+        "Bake in the preheated oven for 8-10 minutes or until the edges of the bread are golden brown.",
+        "Remove from the oven and let it cool slightly before serving.",
+        "Enjoy this simple and delicious Tomato Basil Bruschetta!"
+      ],
+      "estimatedCost": 300,
+      "imageUrl": "/images/tomato_basil_bruschetta.png"
+    },
+    {
+      "id": 15,
+      "title": "Beef and Broccoli Stir-Fry",
+      "description": "A quick and flavorful stir-fry featuring tender strips of beef and crisp broccoli in a savory soy-based sauce.",
+      "ingredients": [
+        {
+          "name": "Beef sirloin or flank steak, thinly sliced",
+          "amount": "1 lb"
+        },
+        {
+          "name": "Broccoli florets",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Sesame oil",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "Brown sugar",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Cornstarch",
+          "amount": "1 tablespoon, dissolved in 2 tablespoons water"
+        },
+        {
+          "name": "Vegetable oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "Cooked white rice for serving",
+          "amount": "4 cups"
+        },
+        {
+          "name": "Green onions, sliced (for garnish)",
+          "amount": "optional"
+        },
+        {
+          "name": "Sesame seeds (for garnish)",
+          "amount": "optional"
+        }
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, minced garlic, sesame oil, brown sugar, and dissolved cornstarch to create the sauce.",
+        "Marinate the thinly sliced beef in half of the sauce for about 15 minutes.",
+        "In a wok or large pan, heat vegetable oil over high heat.",
+        "Stir-fry the marinated beef until browned and cooked through. Remove from the pan and set aside.",
+        "In the same pan, add a bit more oil if needed and stir-fry the broccoli until crisp-tender.",
+        "Return the cooked beef to the pan, pour in the remaining sauce, and toss until everything is well-coated and heated through.",
+        "Serve the beef and broccoli stir-fry over cooked white rice.",
+        "Garnish with sliced green onions and sesame seeds if desired."
+      ],
+      "estimatedCost": 1200,
+      "imageUrl": "/images/beef_and_broccoli_stir_fry.png"
+    }
+  ]
+}
