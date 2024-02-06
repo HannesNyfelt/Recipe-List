@@ -55,7 +55,13 @@ img {
 }
 
 ul {
+    font-size: larger;
+    font-weight: 600;
+}
+
+li {
     font-size: large;
+    font-weight: 300;
 }
 
 #list {
