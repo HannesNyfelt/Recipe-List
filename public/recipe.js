@@ -21,7 +21,7 @@ async function fetchRecipes() {
         </div>
         <h3>Instructions:</h3>
         <h3>${recipe.instructions.join('\n')}</h3>
-        <h4>Cost: ${recipe.estimatedCost}</h4>
+        <h4>Cost: ${recipe.estimatedCost / 100}€</h4>
         </div>
     </div>
     `
